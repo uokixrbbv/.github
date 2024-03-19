@@ -1,7 +1,6 @@
 > [!WARNING]
 > We are not responsible if you get banned
 
-<h1 align="center">Mousebuttons + big update at 150 github stars!</h1>
 <h1 align="center">https://discord.gg/AIMr</h1>
 
 
