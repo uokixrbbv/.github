@@ -1,26 +1,53 @@
 > [!WARNING]
-> I am not responsible if you get banned (Haven't gotten any reports of bans)
+> We are not responsible if you get banned
+
+<h1 align="center">Mousebuttons + big update at 150 github stars!</h1>
+<h1 align="center">https://discord.gg/AIMr</h1>
+
 
 ![AIMr](https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/KREk0tS.gif)
-# AIMr
+<p align="center">AIMr is an ai aimbot written in python.</p>
 
-AIMr is an ai aimbot that uses the yolo detection model with many features.
+<div align="center">
+  
+[![discord server](https://dcbadge.vercel.app/api/server/AIMr)](https://discord.gg/AIMr)
 
-<h2 style="text-align: center;"> Join the Discord for help and announcements https://discord.gg/AIMr</h2>
+![views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkbdevs%2Fai-aimbot&count_bg=%239279B5&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=Views&edge_flat=false) ![GitHub top language](https://img.shields.io/github/languages/top/ai-aimbot/aimr?labelColor=%235B5B5B&color=%23907FB0) 
 
-
-
-[How many times has it been launched?](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Flocalhost%2FAIMr&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Launches&edge_flat=false)
-[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkbdevs%2Fai-aimbot&count_bg=%239279B5&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
-(daily resets at 4pm PST for some reason)
+![GitHub last commit](https://img.shields.io/github/last-commit/ai-aimbot/AIMr?labelColor=%235B5B5B&color=%23907FB0) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/ai-aimbot/AIMr?labelColor=%235B5B5B&color=%238A79AA)
 
 
+  
+</div>
 
-# How to use
-### Option 1
-Run the auto install from [releases](https://github.com/ai-aimbot/AIMr/releases/tag/Launcher) and you should be good to go! <br>
-### Option 2 (if you dont want the EXE or linkvertise)
-Join our [discord](https://discord.gg/AIMr) and go to the [guides channel](https://discord.com/channels/1191468194490241075/1191799494031982592).
-### If none of those work
-Feel free to join our [discord](https://discord.gg/AIMr) for [help](https://discord.com/channels/1191468194490241075/1191470814000857179)!
-![image](https://github.com/ai-aimbot/AIMr/assets/86767129/0f0a33ab-cf6c-48ae-98c0-c1b482b494d7)
+
+
+AIMr leverages many modern technologies to achieve an undetected ai aimbot system with a pleasing appearance.
+
+AIMr works on any game that uses human shaped models (besides valorant).
+
+NOTICE: To make it work on valorant you need perks in our [discord](https://discord.gg/AIMr) and a [Arduino Leonardo R3](https://www.amazon.com/KEYESTUDIO-Leonardo-Development-Board-Arduino/dp/B0786LJQ8K)
+
+<img src="https://i.imgur.com/g7mNGkW.png" alt="AIMr CLI" align="right" height="120px">
+<img src="https://i.imgur.com/9VjSEIZ.png" alt="AIMr GUI3" align="right" height="120px">
+<img src="https://i.imgur.com/RCIBtOS.png" alt="AIMr GUI2" align="right" height="120px">
+<img src="https://i.imgur.com/iwyAQXN.png" alt="AIMr GUI1" align="right" height="120px">
+
+### More: \[[Installation](https://github.com/ai-aimbot/AIMr/blob/main/installation.md)\] \[[Info](https://github.com/ai-aimbot/AIMr/blob/main/info.md)\]
+
+
+How to run (Click it)  |  How to change config (Click it) | [OLD] Showcase (Click it)
+:-------------------------:|:-------------------------:|:-------------------------:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/G5MR5_vm9Jk/0.jpg)](https://www.youtube.com/watch?v=G5MR5_vm9Jk)  |  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6cuxB7WoMjA/0.jpg)](https://www.youtube.com/watch?v=6cuxB7WoMjA)  |  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N2wy5XQ-37c/0.jpg)](https://www.youtube.com/watch?v=N2wy5XQ-37c)
+
+## Star History
+
+<a href="https://star-history.com/#ai-aimbot/aimr&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ai-aimbot/aimr&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ai-aimbot/aimr&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ai-aimbot/aimr&type=Date" />
+  </picture>
+</a>
+
+
